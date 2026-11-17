@@ -21,9 +21,10 @@ it is kept, and how you can get a copy of it or have it deleted.
 - When you open Tilework, Discord tells us **who you are** (your user ID, username,
   display name and avatar). We store that, your **puzzle plays** (progress, times,
   hints, mistakes) and the **rewards** you earn.
-- Your **name, avatar, times and hints are shown to other players**: on leaderboards,
-  to people in the same voice channel, and in result posts in the channel. That is
-  how the game works.
+- Your **name, avatar, times and hints are shown to other players** in the servers and
+  channels where you play: on that server's leaderboard, to people in the same voice
+  channel, and in result posts. That is how the game works. The leaderboard across all
+  servers only shows you if you choose to be on it.
 - We **do not read or store your messages**, and we do not ask for your email address.
 - We **do not sell your data**, use it for advertising, or use it to train machine
   learning or AI models.
@@ -68,8 +69,9 @@ settings in a server. We do not store your server list or your roles.
 
 Tilework is a social game, so some of what we store is shown to others:
 
-- **Leaderboards** show your name, avatar, time and hints. There is a leaderboard for
-  each server and one for **everyone** who plays Tilework, across all servers.
+- **Server leaderboards** show your name, avatar, time and hints to people in the
+  server where you played. The **Everyone** leaderboard, across all servers, only shows
+  you if you turn it on (it starts off, and you can turn it off again at any time).
 - **People in the same voice channel** can see that you have a puzzle open and how far
   along you are, and once they have finished the same daily they can watch your board.
 - **Result posts** in a channel show the names, times and hints of people who finished
