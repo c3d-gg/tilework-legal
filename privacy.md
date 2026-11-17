@@ -43,6 +43,7 @@ it is kept, and how you can get a copy of it or have it deleted.
 | An encrypted copy of the Discord access token you grant when signing in | To check, without our bot being in your server, whether you may change that server's Tilework settings. It is sealed with a key only the server holds and expires when Discord's token does. |
 | Server settings, set by a server's managers (games on or off, hint limit, results channel, manager role, the server's own currency and its rules), and who last changed them | To run Tilework the way each server chose. |
 | The ID of the daily results message the app posts in a channel | To update that one message during the day instead of posting a new one. |
+| Your Tilework preferences: games you pinned, and whether you show your times on the Everyone leaderboard | To show the hub and leaderboards the way you set them. |
 | Feedback you send (from the Feedback button or `/feedback`): its type, your message, the game and server it came from, and the app version | To read it and fix or improve Tilework. A copy is posted to a private Discord channel that only the operator can see, so it is read quickly. |
 
 When you sign in, Tilework asks Discord for three permissions: `identify` (who you
