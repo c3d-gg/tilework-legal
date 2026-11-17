@@ -6,7 +6,7 @@ permalink: /privacy/
 # Privacy Policy for Tilework
 
 **Effective date:** 17 November 2026
-**Last updated:** 18 November 2026
+**Last updated:** 17 November 2026
 
 Tilework ("the app", "we", "us") is a Discord Activity of daily puzzles, made and
 operated by c³d. This policy explains what the app stores, why, who sees it, how long
