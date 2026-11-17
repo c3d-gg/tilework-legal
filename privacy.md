@@ -37,7 +37,7 @@ it is kept, and how you can get a copy of it or have it deleted.
 | Data | Why |
 |---|---|
 | Discord user ID, username, display name and avatar | To know who is playing, and to show your name on leaderboards and results. Refreshed each time you open the app. |
-| Puzzle plays: which puzzle, your progress on the board, start and finish times, time taken, hints used, mistakes and time penalties | To save your game, time it on our clock, check your answer, and rank daily puzzles. |
+| Puzzle plays: which puzzle, your progress on the board, start and finish times, time taken, the score or level reached (in games ranked by score), hints used, mistakes and time penalties | To save your game, time it on our clock, check your answer, and rank daily puzzles. |
 | The server and channel you played in | To show results to that channel, run that server's leaderboard, and pay that server's currency if it has one. |
 | Rewards: Sparks and any server currency you earn, as a list of entries | To show your balances and apply the earning limits. |
 | An encrypted copy of the Discord access token you grant when signing in | To check, without our bot being in your server, whether you may change that server's Tilework settings. It is sealed with a key only the server holds and expires when Discord's token does. |
