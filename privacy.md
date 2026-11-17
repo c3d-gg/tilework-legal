@@ -6,7 +6,7 @@ permalink: /privacy/
 # Privacy Policy for Tilework
 
 **Effective date:** 17 November 2026
-**Last updated:** 17 November 2026
+**Last updated:** 18 November 2026
 
 Tilework ("the app", "we", "us") is a Discord Activity of daily puzzles, made and
 operated by c³d. This policy explains what the app stores, why, who sees it, how long
@@ -42,6 +42,7 @@ it is kept, and how you can get a copy of it or have it deleted.
 | An encrypted copy of the Discord access token you grant when signing in | To check, without our bot being in your server, whether you may change that server's Tilework settings. It is sealed with a key only the server holds and expires when Discord's token does. |
 | Server settings, set by a server's managers (games on or off, hint limit, results channel, manager role, the server's own currency and its rules), and who last changed them | To run Tilework the way each server chose. |
 | The ID of the daily results message the app posts in a channel | To update that one message during the day instead of posting a new one. |
+| Feedback you send (from the Feedback button or `/feedback`): its type, your message, the game and server it came from, and the app version | To read it and fix or improve Tilework. A copy is posted to a private Discord channel that only the operator can see, so it is read quickly. |
 
 When you sign in, Tilework asks Discord for three permissions: `identify` (who you
 are), `guilds` (which servers you are in) and `guilds.members.read` (your roles in a
@@ -99,6 +100,7 @@ We may also disclose data where the law requires it.
 | Your profile, plays and rewards | While Tilework operates, so your history, streaks and leaderboard entries keep working. Deleted on request (section 8). |
 | Encrypted Discord access token | Until it expires, and replaced each time you sign in. |
 | Server settings | While the server uses Tilework, or until its managers ask us to remove them. |
+| Feedback | Up to 2 years, so we can follow problems and ideas over time. Deleted on request. |
 | Application logs | Short-lived; they rotate with the hosting provider. |
 
 **About the alpha.** Tilework is currently in alpha. At full launch, balances, streaks
@@ -129,13 +131,13 @@ We respond within 30 days. Repeated or excessive requests may be refused or rate
 limited. If you are in the EU or UK, you can also complain to your local data
 protection authority.
 
-**What deletion removes:** your profile, your plays, your rewards and your stored
-access token. You disappear from all leaderboards. Results already posted in Discord
+**What deletion removes:** your profile, your plays, your rewards, your feedback and
+your stored access token. You disappear from all leaderboards. Results already posted in Discord
 channels are messages stored by Discord; the app edits them during the day they were
 posted but does not keep them afterwards.
 
-**What a copy contains:** your profile, your plays and your reward entries, as a JSON
-file.
+**What a copy contains:** your profile, your plays, your reward entries and your
+feedback, as a JSON file.
 
 ---
 
