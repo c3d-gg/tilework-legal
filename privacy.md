@@ -6,7 +6,7 @@ permalink: /privacy/
 # Privacy Policy for Tilework
 
 **Effective date:** 17 November 2026
-**Last updated:** 17 November 2026
+**Last updated:** 18 November 2026
 
 Tilework ("the app", "we", "us") is a Discord Activity of daily puzzles, made and
 operated by c³d. This policy explains what the app stores, why, who sees it, how long
@@ -21,7 +21,7 @@ it is kept, and how you can get a copy of it or have it deleted.
 - When you open Tilework, Discord tells us **who you are** (your user ID, username,
   display name and avatar). We store that, your **puzzle plays** (progress, times,
   hints, mistakes) and the **rewards** you earn.
-- Your **name, avatar, times and hints are shown to other players** in the servers and
+- Your **name, avatar, badges, times and hints are shown to other players** in the servers and
   channels where you play: on that server's leaderboard, to people in the same voice
   channel, and in result posts. That is how the game works. The leaderboard across all
   servers only shows you if you choose to be on it.
@@ -43,6 +43,7 @@ it is kept, and how you can get a copy of it or have it deleted.
 | An encrypted copy of the Discord access token you grant when signing in | To check, without our bot being in your server, whether you may change that server's Tilework settings. It is sealed with a key only the server holds and expires when Discord's token does. |
 | Server settings, set by a server's managers (games on or off, hint limit, results channel, manager role, the server's own currency and its rules), and who last changed them | To run Tilework the way each server chose. |
 | The ID of the daily results message the app posts in a channel | To update that one message during the day instead of posting a new one. |
+| Badges: which badges you and the servers you play in have earned (such as Alpha tester), and when | To show them by your name on leaderboards, live play and result cards, and in a server's hub. They are worked out from your plays. |
 | Your Tilework preferences: games you pinned, and whether you show your times on the Everyone leaderboard | To show the hub and leaderboards the way you set them. |
 | Feedback you send (from the Feedback button or `/feedback`): its type, your message, the game and server it came from, and the app version | To read it and fix or improve Tilework. A copy is posted to a private Discord channel that only the operator can see, so it is read quickly. |
 
@@ -100,16 +101,17 @@ We may also disclose data where the law requires it.
 
 | Data | Retention |
 |---|---|
-| Your profile, plays and rewards | While Tilework operates, so your history, streaks and leaderboard entries keep working. Deleted on request (section 8). |
+| Your profile, plays, rewards and badges | While Tilework operates, so your history, streaks, badges and leaderboard entries keep working. Badges are permanent and never reset by a season. Deleted on request (section 8). |
 | Encrypted Discord access token | Until it expires, and replaced each time you sign in. |
 | Server settings | While the server uses Tilework, or until its managers ask us to remove them. |
 | Feedback | Up to 2 years, so we can follow problems and ideas over time. Deleted on request. |
 | Application logs | Short-lived; they rotate with the hosting provider. |
 
 **About the alpha.** Tilework is currently in alpha. At full launch, balances, streaks
-and leaderboards start fresh. The alpha's records are kept, not shown, so we can award
-alpha badges and tune the game; they are covered by this policy and can be deleted on
-request like everything else.
+and leaderboards start fresh. The alpha's records are kept, not shown, so alpha badges
+stay accurate and we can tune the game; they are covered by this policy and can be
+deleted on request like everything else. Alpha badges are awarded as you play, and kept
+after launch.
 
 Statistics we keep beyond these periods are aggregated and contain no user IDs.
 

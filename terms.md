@@ -6,7 +6,7 @@ permalink: /terms/
 # Terms of Service for Tilework
 
 **Effective date:** 17 November 2026
-**Last updated:** 17 November 2026
+**Last updated:** 18 November 2026
 
 These Terms of Service ("Terms") govern your use of Tilework ("the app"), a Discord
 Activity of daily puzzles made and operated by c³d ("we", "us"). By opening the app,
@@ -29,9 +29,11 @@ the channel you played in.
 ## 2. Alpha
 
 Tilework is in **alpha**. Things will change, break and be fixed. At full launch,
-balances, streaks and leaderboards will start fresh; everyone who played during the
-alpha keeps an alpha badge. We may also reset or adjust data during the alpha to fix
-problems.
+balances, streaks and leaderboards will start fresh. Badges earned during the alpha
+(Alpha tester, Founding player, and Alpha community for servers) are awarded as you
+play and kept for good; like the currencies, they are for fun and have no value outside
+Tilework. We may also reset or adjust data during the alpha to fix problems, and may
+remove a badge earned by cheating or abuse.
 
 ---
 
